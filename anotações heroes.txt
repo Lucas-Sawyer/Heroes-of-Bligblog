@@ -1,0 +1,2 @@
+scala da carta em modo de visualização = 0.5
+posição da carta em modo de visualização = X:0, y:-1
